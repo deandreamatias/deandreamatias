@@ -7,6 +7,7 @@ A creative and dynamic developer. I really like to work with mobile applications
 - 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (A2).
 - 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
 - 😄 Pronouns: He/His.
+- 🎥 [Presentation about mobile development (PT)](https://youtu.be/wGnb65r8RIA?t=25) / [Presentation about mobile development (ES)](https://youtu.be/EQUxi4gKoLA)
 - ✨ And I like other things outside technology: 🐶 dogs, 📖 philosophy, 🗃 organize, 🌳 nature and so many others.
 
 ### You can find me online in these places
@@ -47,9 +48,3 @@ A creative and dynamic developer. I really like to work with mobile applications
 <a href="https://github.com/deandreamatias/tv-randshow">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deandreamatias&repo=tv-randshow&theme=dark" />
 </a>
-<br/>
-
-<br/>
-[Presentation about mobile development (Portuguese)](https://youtu.be/wGnb65r8RIA?t=25)
-<br/>
-[Presentation about mobile development (Spanish)](https://youtu.be/EQUxi4gKoLA)
