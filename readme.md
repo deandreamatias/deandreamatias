@@ -11,26 +11,31 @@ A mobile developer. I really like to work with mobile applications, developing U
 
 ### You can find me online in these places
 
-<a href="https://deandreamatias.com">
-  <img align="left" alt="Matias de Andrea's Website" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/globe.svg" />
-</a>
-<a href="https://linkedin.com/in/deandreamatias">
-  <img align="left" alt="Matias de Andrea's Linkdein" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/linkedin.svg" />
-</a>
-<a href="https://github.com/deandreamatias">
-  <img align="left" alt="Matias de Andrea's Github" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/github.svg" />
-</a>
-<a href="https://twitter.com/deandreamatias">
-  <img align="left" alt="Matias de Andrea's Twitter" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/twitter.svg" />
-</a>
-<a href="https://behance.net/deandreamatias">
-  <img align="left" alt="Matias de Andrea's Behance" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/behance.svg" />
-</a>
-<a href="https://t.me/deandreamatias">
-  <img align="left" alt="Matias de Andrea's Telegram" width="32px" src="https://raw.githubusercontent.com/akveo/eva-icons/master/package/icons/fill/svg/message-circle.svg" />
-</a>
 
-<br/>
+<p align="left">
+ <a href="https://deandreamatias.com">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/web.svg" alt="Website" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.linkedin.com/in/deandreamatias/">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>
+  </a>
+  <a href="https://stackoverflow.com/users/story/8700272">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
+  </a>
+  </a>
+  <a href="https://medium.com/@deandreamatias">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://twitter.com/deandreamatias">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://t.me/deandreamatias">
+    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+<hr>
 
 ### Contribution to the development community
 
