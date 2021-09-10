@@ -2,12 +2,12 @@
 A mobile developer. I really like to work with mobile applications, developing UI/UX and software.
 
 
-- 👨🏽‍💻 I’m currently work remote in [E-Valua](https://www.e-valua.es/).
+- 👨🏽‍💻 I’m currently work remote in [Mr. Milú](https://mrmilu.com/).
 - 🗺 I lived in Uruguay, Brazil and rigth now, Spain.
 - 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (A2).
 - 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
 - 😄 Pronouns: He/His.
-- ✨ And I like other things outside technology: 🐶 dogs, 📖 philosophy, 🗃 organize, 🌳 nature and so many others.
+- ✨ And I like other things outside technology: 🐶 pets, 📖 philosophy, 🗃 organize, 🌳 nature and so many others.
 
 ### You can find me online in these places
 
@@ -41,13 +41,17 @@ A mobile developer. I really like to work with mobile applications, developing U
 
 #### Videos
 
-  - [Presentation about mobile development (PT)](https://youtu.be/wGnb65r8RIA?t=25)
-  - [Presentation about mobile development (ES)](https://youtu.be/EQUxi4gKoLA)
+  - [How start or migrate to mobile development (PT)](https://youtu.be/wGnb65r8RIA?t=25)
+  - [How start or migrate to mobile development (ES)](https://youtu.be/EQUxi4gKoLA)
   - [TV Randshow app (ES)](https://youtu.be/Ggio7N9eUqk?t=4111)
 
 #### Articles
 
   - [How choice Flutter dependencies (packages) (PT)](https://medium.com/@deandreamatias/escolhendo-dependencias-packages-em-flutter-5ab5515d3771)
+
+#### Podcast
+
+  - [Interview about podcast and community (ES)](https://anchor.fm/flutterconf/episodes/02-Entrevista-con-Matas-de-Andrea--el-Universo-de-la-comunidad-Flutter-en-portugus-etd0qi)
 
 #### Software projects
 
