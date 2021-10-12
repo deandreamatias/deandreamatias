@@ -48,6 +48,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 #### Articles
 
   - [How choice Flutter dependencies (packages) (PT)](https://medium.com/@deandreamatias/escolhendo-dependencias-packages-em-flutter-5ab5515d3771)
+  - [How choice Flutter dependencies (packages) (ES)](https://medium.com/flutter-espa%C3%B1a/eligiendo-dependencias-packages-en-flutter-8c8bf2136c4b)
 
 #### Podcast
 
