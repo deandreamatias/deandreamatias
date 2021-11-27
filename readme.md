@@ -62,8 +62,3 @@ A mobile developer. I really like to work with mobile applications, developing U
 <a href="https://github.com/deandreamatias">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandreamatias&theme=dark&layout=compact" />
 </a>
-<br/>
-<br/>
-<a href="https://github.com/deandreamatias/tv-randshow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deandreamatias&repo=tv-randshow&theme=dark" />
-</a>
