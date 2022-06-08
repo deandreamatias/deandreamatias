@@ -7,7 +7,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 - 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (A2).
 - 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
 - 😄 Pronouns: He/His.
-- ✨ And I like other things outside technology: 🐶 pets, 📖 philosophy, 🗃 organize, 🌳 nature and so many others.
+- ✨ And I like other things outside technology: 🐈 pets, ⚽ play soccer, 🗃 organize, 🌳 nature and so many others.
 
 ### You can find me online in these places
 
