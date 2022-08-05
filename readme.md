@@ -20,7 +20,7 @@ A mobile developer. I really like to work with mobile applications, developing U
     <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
   </a>
-  <a href="https://stackoverflow.com/users/story/8700272">
+  <a href="https://stackoverflow.com/users/8700272/matias-de-andrea?tab=profile">
     <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/stackoverflow.svg" alt="StackOverflow" style="vertical-align:top; margin:4px">
   </a>
   </a>
@@ -55,11 +55,8 @@ A mobile developer. I really like to work with mobile applications, developing U
   - [Interview about podcast and community (ES)](https://anchor.fm/flutterconf/episodes/02-Entrevista-con-Matas-de-Andrea--el-Universo-de-la-comunidad-Flutter-en-portugus-etd0qi)
   - [Interview about my work with Flutter (ES)](https://open.spotify.com/episode/33zrdlfNNJRzR8wC3A0zeE?si=4474313e51064e5b)
 
-#### Software projects
+#### Open source projects
 
-<a href="https://github.com/deandreamatias">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=deandreamatias&show_icons=true&theme=dark&layout=compact" alt="Matias de Andrea's github stats"/>
-</a>
-<a href="https://github.com/deandreamatias">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deandreamatias&theme=dark&layout=compact" />
-</a>
+- Member of [Flutter Form Builder Ecosystem](https://github.com/flutter-form-builder-ecosystem)
+- Contribute to [several Flutter projects](https://github.com/deandreamatias?tab=repositories&q=&type=fork&language=dart&sort=)
+
