@@ -27,9 +27,6 @@ A mobile developer. I really like to work with mobile applications, developing U
   <a href="https://medium.com/@deandreamatias">
     <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://twitter.com/deandreamatias">
-    <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://t.me/deandreamatias">
     <img src="https://raw.githubusercontent.com/deandreamatias/deandreamatias/master/resources/telegram.svg" alt="Telegram" style="vertical-align:top; margin:4px">
   </a>
