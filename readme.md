@@ -4,7 +4,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 
 - 👨🏽‍💻 I’m currently work remote in [Mr. Milú](https://mrmilu.com/).
 - 🗺 I lived in Uruguay, Brazil and rigth now, Spain.
-- 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (A2).
+- 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (B1).
 - 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
 - 😄 Pronouns: He/His.
 - ✨ And I like other things outside technology: 🐈 pets, ⚽ play soccer, 🗃 organize, 🌳 nature and so many others.
@@ -51,6 +51,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 
   - [Interview about podcast and community (ES)](https://anchor.fm/flutterconf/episodes/02-Entrevista-con-Matas-de-Andrea--el-Universo-de-la-comunidad-Flutter-en-portugus-etd0qi)
   - [Interview about my work with Flutter (ES)](https://open.spotify.com/episode/33zrdlfNNJRzR8wC3A0zeE?si=4474313e51064e5b)
+  - [Interview about my life on Brazil and on Spain]()
 
 #### Open source projects
 
