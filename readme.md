@@ -3,7 +3,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 
 
 - 👨🏽‍💻 I’m currently work remote in [Mr. Milú](https://mrmilu.com/).
-- 🗺 I lived in Uruguay, Brazil and rigth now, Spain.
+- 🗺 I lived in Uruguay, Brazil and right now, Spain.
 - 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (B1).
 - 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
 - 😄 Pronouns: He/His.
