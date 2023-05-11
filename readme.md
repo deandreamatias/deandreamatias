@@ -51,7 +51,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 
   - [Interview about podcast and community (ES)](https://anchor.fm/flutterconf/episodes/02-Entrevista-con-Matas-de-Andrea--el-Universo-de-la-comunidad-Flutter-en-portugus-etd0qi)
   - [Interview about my work with Flutter (ES)](https://open.spotify.com/episode/33zrdlfNNJRzR8wC3A0zeE?si=4474313e51064e5b)
-  - [Interview about my life on Brazil and on Spain](https://open.spotify.com/episode/7hKTq2AhxGjCJTYyPsaE7b?si=7289de9e237c4c81)
+  - [Interview about my life on Brazil and on Spain (PT)](https://open.spotify.com/episode/7hKTq2AhxGjCJTYyPsaE7b?si=7289de9e237c4c81)
 
 #### Open source projects
 
