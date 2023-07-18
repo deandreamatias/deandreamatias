@@ -56,5 +56,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 #### Open source projects
 
 - Member of [Flutter Form Builder Ecosystem](https://github.com/flutter-form-builder-ecosystem)
+- Co-creator of [flutter_base](https://github.com/mrmilu/flutter_base) on [Mr Milú](https://mrmilu.com/) (with user [mdeandrea-mrmilu](https://github.com/mdeandrea-mrmilu))
+- Co-creator of [flutter_architecture_template](https://github.com/worldline-spain/flutter_architecture_template) on [Worldline](https://worldline.com/es-es/home.html) (with user [deandreamatias-worldline](https://github.com/deandreamatias-worldline))
 - Contribute to [several Flutter projects](https://github.com/deandreamatias?tab=repositories&q=&type=fork&language=dart&sort=)
 
