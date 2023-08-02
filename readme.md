@@ -60,3 +60,4 @@ A mobile developer. I really like to work with mobile applications, developing U
 - Co-creator of [flutter_architecture_template](https://github.com/worldline-spain/flutter_architecture_template) on [Worldline](https://worldline.com/es-es/home.html) (with user [deandreamatias-worldline](https://github.com/deandreamatias-worldline))
 - Contribute to [several Flutter projects](https://github.com/deandreamatias?tab=repositories&q=&type=fork&language=dart&sort=)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=deandreamatias&hide_border=true&card_width=400&background=7E008E&sideLabels=FFFFFFEE&dates=FFFFFFEE&sideNums=FFFFFF&hide_current_streak=true)](https://git.io/streak-stats)
