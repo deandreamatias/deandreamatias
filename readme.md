@@ -5,7 +5,7 @@ A mobile developer. I really like to work with mobile applications, developing U
 - 👨🏽‍💻 I’m currently work remote in [Lobo](https://loboagenciadigital.com/).
 - 🗺 I lived in Uruguay, Brazil and right now, Spain.
 - 🗣 So, I speak some languages: Spanish (native), Portuguese (C2) and a little bit English (B1).
-- 📻 I have a podcast about Flutter, in portuguese: [Universo Flutter](https://anchor.fm/universoflutter).
+- 💬 Creator of **Flutter Universe** channels on [Whatsapp](https://whatsapp.com/channel/0029Vb6LAKpCMY0H3WPXTC0t) and [Telgram](https://t.me/flutteruniverse). Spin-off of [Universo Flutter](https://anchor.fm/universoflutter) podcast.
 - 😄 Pronouns: He/His.
 - ✨ And I like other things outside technology: 🐈 pets, ⚽ play soccer, 🗃 organize, 🌳 nature and so many others.
 
